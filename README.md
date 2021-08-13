@@ -1,6 +1,6 @@
                                           Hola, Bienvenido o bienvenida a mi Github :3 
 
-<img src="https://i.imgur.com/St19XCd.gif"> style="display:block,margin:auto">
+<img src="https://i.imgur.com/St19XCd.gif" style="display:block">
 
 
 <a href="https://riverrhino.github.io">
